@@ -1,0 +1,27 @@
+{
+  "name": "csv-stream-loader",
+  "version": "1.0.0",
+  "description": "CSV Loader",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marow-dev/csv-stream-loader"
+  },
+  "keywords": [
+    "csv"
+  ],
+  "author": {
+      "name": "Marcin Owczarczyk",
+      "email": "marow.dev@gmail.com"
+  },
+  "license": "MIT/X11",
+  "devDependencies": {
+    "mocha": ">=3.0.0"
+  }
+}
